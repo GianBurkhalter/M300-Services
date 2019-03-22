@@ -8,7 +8,7 @@ Diese Repository behandelt die Umsetzung von der LB1.
 
 
 ## Einleitung
-Diese Dokumentation wurde von Samuel Briegel im Rahmen des Moduls M300 (Plattformübergreifende Dienste in ein Netzwerk integrieren) erarbeitet und zeigt alle Schritte auf, die es braucht um die LB1-Kriterien zu erfüllen.
+Diese Dokumentation wurde von Gian Burkhalter im Rahmen des Moduls M300 (Plattformübergreifende Dienste in ein Netzwerk integrieren) erarbeitet und zeigt alle Schritte auf, die es braucht um die LB1-Kriterien zu erfüllen.
 
 ## Voraussetzungen
 * VirtualBox 
